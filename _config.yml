@@ -34,7 +34,7 @@ google_analytics:
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 theme_mode:   # [light|dark]
-avatar: '/commons/avatar.jpg'
+avatar:
 toc: true
 
 comments:
